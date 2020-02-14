@@ -1,5 +1,0 @@
-package lv.kristine.paysystem;
-
-public interface Payee {
-
-}
